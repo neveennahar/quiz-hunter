@@ -1,6 +1,6 @@
 # Quiz Hunter
 
-## Live Website Link [Quiz Hunter](https://laptop-reviews-app.netlify.app/).
+## Live Website Link [Quiz Hunter](https://quiz-hunter-60.netlify.app/).
 
 # Some Features Of My Site
 
